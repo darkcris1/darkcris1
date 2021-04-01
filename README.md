@@ -8,4 +8,4 @@
 darkcris1/darkcris1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Github Metrics](https://metrics.lecoq.io/darkcris1)
+![Github Metrics](https://raw.githubusercontent.com/darkcris1/darkcris1/master/github-metrics.svg)
