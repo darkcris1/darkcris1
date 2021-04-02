@@ -7,11 +7,12 @@
   </h1> 
 </p>
 
-
-- ## 👀 I’m interested in programming 
-
-- ## 📫 How to reach me **[Contact Me](https://crisfandino.ml/contact)**
-
+<p align="center">
+  👀 I’m interested in programming 
+</p>
+<p align="center">
+  📫 How to reach me <a href="https://crisfandino.ml/contact"><b>Contact Me </b> </a>
+</p>
 
 
 <p align="center">
