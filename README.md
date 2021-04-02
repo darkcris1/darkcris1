@@ -18,7 +18,7 @@
 - **[Image Hoster](https://img-hoster.netlify.app)**
 - **[json-msg-react](https://github.com/darkcris1/json-msg-react)**
 - **[Filipino Freelancers Landing Page](https://filipinofreelancers.netlify.app)**
-- 
+
 ## Language and tools I used
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
