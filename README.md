@@ -16,8 +16,8 @@
 ## My Recent Projects
 - **[Fullstack Todo App](https://etodos.netlify.app)**
 - **[Image Hoster](https://img-hoster.netlify.app)**
-- **[json-msg-react](https://github.com/darkcris1/json-msg-react)
-- **[Filipino Freelancers Landing Page](https://filipinofreelancers.netlify.app)
+- **[json-msg-react](https://github.com/darkcris1/json-msg-react)**
+- **[Filipino Freelancers Landing Page](https://filipinofreelancers.netlify.app)**
 - 
 ## Language and tools I used
 <p align="left">
