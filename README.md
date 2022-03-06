@@ -18,7 +18,6 @@
 - **[Image Hoster](https://img-hoster.vercel.app/)**
 - **[PWA Sudoku](https://esudoku.vercel.app/)**
 - **[json-msg-react](https://github.com/darkcris1/json-msg-react)** - React Hook for making validation easier
-- **[Filipino Freelancers Landing Page](https://filipinofreelancers.netlify.app)**
 
 ## Language and tools I used
 <p align="left">
