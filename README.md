@@ -14,9 +14,9 @@
 - 📫 How to reach me <a href="https://crisfandino.ml/contact"><b>Contact Me </b> </a>
 
 ## My Recent Projects
-- **[Fullstack Todo App](https://etodos.netlify.app)**
+- **[Fullstack Todo App](https://etodos.vercel.app/)**
 - **[Image Hoster](https://img-hoster.vercel.app/)**
-- **[PWA Sudoku](https://esudoku.netlify.app)**
+- **[PWA Sudoku](https://esudoku.vercel.app/)**
 - **[json-msg-react](https://github.com/darkcris1/json-msg-react)** - React Hook for making validation easier
 - **[Filipino Freelancers Landing Page](https://filipinofreelancers.netlify.app)**
 
