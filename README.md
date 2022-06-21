@@ -1,24 +1,3 @@
-<p align="center" style="text-align:center" >
-  
-  [//]: <img alt="Cris Fandiño Logo" src="https://crisfandino.ml/assets/icon-192x192.png"/>
-  
-  <h1 align="center">
- [//]: Hi I am <a href="https://crisfandino.ml/about" rel="noreferrer noopener">Cris Fandiño Jr. </a>
-  </h1> 
-</p>
-
-## About me
-
-- 👀 I’m interested in **programming**
-
-[//]: - 📫 How to reach me <a href="https://crisfandino.ml/contact"><b>Contact Me </b> </a>
-
-## My Recent Projects
-[//]: - **[Fullstack Todo App](https://etodos.vercel.app/)**
-[//]: - **[Image Hoster](https://img-hoster.vercel.app/)**
-[//]: - **[PWA Sudoku](https://esudoku.vercel.app/)**
-[//]: - **[json-msg-react](https://github.com/darkcris1/json-msg-react)** - React Hook for making validation easier
-
 ## Language and tools I used
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
@@ -35,22 +14,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="25" height="25" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="25" height="25" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/darkcris1/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkcris1&layout=compact" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/darkcris1/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkcris1&show_icons=true&theme=light" />
-  </a>
-</p>
-
-
-<p align="center">
-  
-  <img  src="https://raw.githubusercontent.com/darkcris1/darkcris1/master/github-metrics.svg" alt="Cris Fandiño"/>
-
 </p>
