@@ -1,23 +1,19 @@
 <p align="center" style="text-align:center" >
   
-  [//] <img alt="Cris Fandiño Logo" src="https://crisfandino.ml/assets/icon-192x192.png"/>
-  
-  <h1 align="center">
- [//] Hi I am <a href="https://crisfandino.ml/about" rel="noreferrer noopener">Cris Fandiño Jr. </a>
-  </h1> 
+  <img alt="Cris Fandiño Logo" src="https://crisfandino.ml/assets/icon-192x192.png"/>
 </p>
 
 ## About me
 
 - 👀 I’m interested in **programming**
 
-[//] - 📫 How to reach me <a href="https://crisfandino.ml/contact"><b>Contact Me </b> </a>
+- 📫 How to reach me <a href="https://crisfandino.ml/contact"><b>Contact Me </b> </a>
 
 ## My Recent Projects
-[//] - **[Fullstack Todo App](https://etodos.vercel.app/)**
-[//] - **[Image Hoster](https://img-hoster.vercel.app/)**
-[//] - **[PWA Sudoku](https://esudoku.vercel.app/)**
-[//] - **[json-msg-react](https://github.com/darkcris1/json-msg-react)** - React Hook for making validation easier
+- **[Fullstack Todo App](https://etodos.vercel.app/)**
+- **[Image Hoster](https://img-hoster.vercel.app/)**
+- **[PWA Sudoku](https://esudoku.vercel.app/)**
+- **[json-msg-react](https://github.com/darkcris1/json-msg-react)** - React Hook for making validation easier
 
 ## Language and tools I used
 <p align="left">
