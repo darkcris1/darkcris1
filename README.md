@@ -1,13 +1,13 @@
 <p align="center" style="text-align:center" >
   
-  <img alt="Cris Fandiño Logo" src="https://crisfandino.ml/assets/icon-192x192.png"/>
+  <img alt="Cris Fandiño Logo" src="https://crisfandino.vercel.app/assets/icon-192x192.png"/>
 </p>
 
 ## About me
 
 - 👀 I’m interested in **programming**
 
-- 📫 How to reach me <a href="https://crisfandino.ml/contact"><b>Contact Me </b> </a>
+- 📫 How to reach me <a href="https://crisfandino.vercel.app/contact"><b>Contact Me </b> </a>
 
 ## My Recent Projects
 - **[Fullstack Todo App](https://etodos.vercel.app/)**
@@ -20,7 +20,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-    <img src="https://tailwindcss.com/_next/static/media/twitter-square.daf77586b35e90319725e742f6e069f9.jpg" alt="tailwind" width="25" height="25" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/512px-Svelte_Logo.svg.png" alt="svelte" width="25" height="25" />
