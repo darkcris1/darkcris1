@@ -36,6 +36,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="25" height="25" />
    <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" alt="vscode" width="25" height="25" />
+   <img src="https://github.com/devicons/devicon/raw/master/icons/jira/jira-original.svg" alt="jira" width="25" height="25" />
 </p>
 
 <p align="center">
