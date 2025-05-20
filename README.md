@@ -9,12 +9,6 @@
 
 - 📫 How to reach me <a href="https://crisfandino.vercel.app/contact"><b>Contact Me </b> </a>
 
-## My Recent Projects
-- **[Fullstack Todo App](https://etodos.vercel.app/)**
-- **[Image Hoster](https://img-hoster.vercel.app/)**
-- **[PWA Sudoku](https://esudoku.vercel.app/)**
-- **[json-msg-react](https://github.com/darkcris1/json-msg-react)** - React Hook for making validation easier
-
 ## Language and tools I used
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
