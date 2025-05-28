@@ -1,6 +1,6 @@
 <p align="center" style="text-align:center" >
   
-  <img alt="Cris Fandiño Logo" src="https://crisfandino.vercel.app/favicon.png"/>
+  <img alt="Cris Fandiño Logo" width="150" height="150" src="https://crisfandino.vercel.app/favicon.png"/>
 </p>
 
 ## About me
