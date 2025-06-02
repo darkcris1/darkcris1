@@ -5,9 +5,9 @@
 
 ## About me
 
-- 👀 I’m interested in **programming**
+- 👀 I’m interested in **building web application**
 
-- 📫 How to reach me <a href="https://crisfandino.vercel.app/contact"><b>Contact Me </b> </a>
+- 📫 How to reach me <a href="https://crisfandino.vercel.app/#contacts"><b>Contact Me </b> </a>
 
 ## Language and tools I used
 <p align="left">
