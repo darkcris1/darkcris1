@@ -37,12 +37,12 @@
 
 <p align="center">
   <a href="https://github.com/darkcris1/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkcris1&layout=compact" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=darkcris1&layout=compact" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/darkcris1/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkcris1&show_icons=true&theme=light" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api?username=darkcris1&show_icons=true&theme=light" />
   </a>
 </p>
 
